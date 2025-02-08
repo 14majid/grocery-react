@@ -1,0 +1,136 @@
+#product {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+    background-color: var(--bg-color);
+}
+
+
+.All-product-header {
+    width: 200px;
+    height: 300px;
+
+    padding: 30px 0 0 30px;
+    margin: 30px 20px 0 10px;
+    border-radius: 10px;
+
+    background-color: var(--second-bg-color);
+}
+.All-product-header p {
+    cursor: pointer;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.All-product-header p:hover {
+    background-color: var(--bg-color);
+    color: var(--second-bg-color);
+}
+
+.All-product-body {
+    width: 80%;
+}
+
+
+
+.produit {
+    padding: 0;
+    margin: 0 10px 100px;
+    background-color: var(--bg-color);
+}
+
+.produit-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+    color: white;
+    padding: 0;
+    /* text-align: center; */
+
+    margin: 30px 0px 20px;
+    height: 400px;
+}
+
+.produit-header h1 {
+    font-size: 2.5rem;
+    margin: 0 0px 0;
+    padding: 5rem;
+
+    background-color: var(--second-bg-color);
+    color: #fff;
+    border-radius: 10px 0 0 10px;
+
+    width: 35%;
+    height: 100%;
+}
+
+.pl-bg {
+    width: 65%;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    background-image:linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3aknr_CMLYQt8k9cExKCr6cjNcidU9RJQg&s');
+    background-size: cover;
+    object-fit: cover;
+}
+
+.pl-bg2 {
+    width: 65%;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    background-image:linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://pointsdevente.fr/wp-content/uploads/Lepicerie-salee-est-tire-par-les-pates-qui-seduisent-en-temps-de-contraction-du-pouvoir-dachat-pointsdevente.jpg');
+    background-size: cover;
+    object-fit: cover;
+}
+
+.pl-bg3 {
+    width: 65%;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    background-image:linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://www.lagrandeepicerie.com/on/demandware.static/-/Library-Sites-LGEsharedLibrary/default/dw2a46e8a6/LGE_V3/MAGASINS/UNIVERS/EPICERIE-SUCREE/epicerie-sucree-biscuits.jpg?im=FeatureCrop,width=660,height=660');
+    background-size: cover;
+    object-fit: cover;
+}
+
+.pl-bg4 {
+    width: 65%;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    background-image:linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://www.voyage-senegal.info/medias/2022/08/les-boissons-senegalaises.jpg');
+    background-size: cover;
+    object-fit: cover;
+}
+
+
+.produit-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    background-color: var(--bg-color);
+}
+
+.All-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.All-container img {
+    background-color: var(--bg-color);
+    width: 250px;
+    height: 250px;
+    margin-bottom: 1rem;
+}
+
+.All-container-body h2 {
+    font-size: 1.2rem;
+}

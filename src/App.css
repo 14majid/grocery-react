@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Manrope:wght@200..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+  --bg-color: #FFF5E1;
+  --second-bg-color: #E2725B;
+
+  --font-one: 'Merriweather', serif;
+  --font-two: 'Lora', sans-serif;
+  --font-three: 'Manrope', sans-serif;
+}
+
+h1,
+h2,
+h3{
+  font-family: var(--font-one);
+  font-weight: 400;
+}
+
+p, a, button {
+  font-family: var(--font-two);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+}
+
+* {
+  box-sizing: border-box;
+}

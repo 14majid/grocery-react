@@ -1,0 +1,10 @@
+export {default as fromage} from "./fromage.png"
+export {default as bridel} from "./bridel.png"
+export {default as oeuf} from "./paquet-oeuf.png"
+export {default as poudre} from "./laiten-poudre.png"
+export {default as fondu} from "./fromage-fondu.png"
+export {default as yaourt} from "./yaourt.png"
+export {default as paquetVit} from "./paquet-vitalait.png"
+export {default as Fromagepresi} from "./fromage-pre.png"
+export {default as dolima} from "./dolima.png"
+

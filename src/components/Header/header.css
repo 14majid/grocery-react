@@ -1,0 +1,47 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+    color: white;
+    padding: 0;
+    text-align: center;
+
+    height: 90vh;
+}
+
+.header-text {
+    width: 35%;
+    height: 100%;
+    padding: 4rem 0 2rem 8rem;
+    text-align: left;
+    background-color: var(--second-bg-color);
+}
+
+#header h1 {
+    font-size: clamp(4rem, 2vw, 2rem);
+    margin: 0;
+}
+
+#header p {
+    font-size: clamp(1.5rem, 1.5vw, 1rem);
+    margin: 0;
+    padding: 2rem 0 3rem;
+}
+
+.button-header {
+    background-color: var(--bg-color);
+    border: none;
+    color: var(--second-bg-color);
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+.header-bg-image {
+    width: 65%;
+    height: 100%;
+    background-image: linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://media.istockphoto.com/id/153737841/photo/rice.jpg?s=1024x1024&w=is&k=20&c=x7EkgZuuESwrs4NuHxX5rEzAHP9uwPij9l5AnKUOYWg=');
+}

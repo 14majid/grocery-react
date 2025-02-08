@@ -1,0 +1,9 @@
+export {default as riz} from './riz.png';
+export {default as petitPois} from './ppois.png';
+export {default as tomate} from './tomate.png';
+export {default as huile} from "./huile-tournesol.png";
+export {default as haricot} from './haricot.png';
+export {default as piment} from "./piment.png";
+export {default as cube} from "./cube.png";
+export {default as sel} from "./sel.png";
+export {default as farine} from "./farine.png";

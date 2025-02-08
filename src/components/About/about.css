@@ -1,0 +1,19 @@
+#about {
+    height: 100vh;
+    margin: 4rem auto;
+    padding: 2rem;
+    background-color: var(--bg-color);
+    color: var(--second-bg-color);
+    max-width: 800px;
+}
+
+#about h1 {
+    font-size: 2.5rem;
+    margin: 0 0 2rem 0;
+}
+
+#about p {
+    font-size: 1.12rem;
+    margin: 0;
+    line-height: 1.5;
+}
