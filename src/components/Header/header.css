@@ -43,5 +43,7 @@
 .header-bg-image {
     width: 65%;
     height: 100%;
-    background-image: linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://media.istockphoto.com/id/153737841/photo/rice.jpg?s=1024x1024&w=is&k=20&c=x7EkgZuuESwrs4NuHxX5rEzAHP9uwPij9l5AnKUOYWg=');
+    background-image: linear-gradient(to right, #E2725B, rgba(0, 0, 0, 0.5)), url('https://st4.depositphotos.com/5823990/37835/i/450/depositphotos_378352504-stock-photo-rice-in-burlap-sack.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
