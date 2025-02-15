@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/grocery-react/static/css/main.47f9867d.css",
+    "main.css": "/grocery-react/static/css/main.ef5e3b24.css",
     "main.js": "/grocery-react/static/js/main.dfb23fad.js",
     "static/media/sirop-menthe.png": "/grocery-react/static/media/sirop-menthe.4d70a7c96194db7c8ca2.png",
     "static/media/sprite.png": "/grocery-react/static/media/sprite.4c668c5c0311b65d93d1.png",
@@ -39,11 +39,11 @@
     "static/media/fromage-fondu.png": "/grocery-react/static/media/fromage-fondu.eeae8444b5fa3a2728df.png",
     "static/media/logo2.png": "/grocery-react/static/media/logo2.999e6b449995d0052675.png",
     "index.html": "/grocery-react/index.html",
-    "main.47f9867d.css.map": "/grocery-react/static/css/main.47f9867d.css.map",
+    "main.ef5e3b24.css.map": "/grocery-react/static/css/main.ef5e3b24.css.map",
     "main.dfb23fad.js.map": "/grocery-react/static/js/main.dfb23fad.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f9867d.css",
+    "static/css/main.ef5e3b24.css",
     "static/js/main.dfb23fad.js"
   ]
 }
